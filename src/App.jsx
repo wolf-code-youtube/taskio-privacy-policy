@@ -25,7 +25,7 @@ function App() {
          </div>
          
       <div className='text-4xl pl-24 font-bold'>
-          Taskio - Privacy Policy
+          Eventio - Privacy Policy
       </div>
      
       <div className='p-24'>
@@ -72,7 +72,7 @@ We reserve the right to update or modify this Privacy Policy at any time. Users 
 <div className='font-bold text-xl pt-5 pb-5'>
 Contact Us<br/>
 </div>
-In case of any questions about this Privacy Policy, please contact us by email at: taskioshopify@gmail.com | Alternate email : sakshamsahore@gmail.com<br/>
+In case of any questions about this Privacy Policy, please contact us by email at: eventio.work@gmail.com<br/>
 
 
       </div>
